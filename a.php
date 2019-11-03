@@ -2,10 +2,11 @@
     
     if(isset($_POST['submit']))
     {
-        if($_POST['group']==null)
+        if($_POST['email']==null)
         {echo "Null";}
+       
         else
-        { echo "Your Group Is : ".$_POST['group']; }
+        { echo "Your Mail Is : ".$_POST['email'];}
     }
     
 ?>
