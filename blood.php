@@ -4,7 +4,7 @@
 Blood Group Name
 </head>
 <body>
-    <form method="POST" action="a.php">
+    <form method="POST" action="#">
         <fieldset>
             <legend>BLOOD GROUP</legend>
             <select name="group">
